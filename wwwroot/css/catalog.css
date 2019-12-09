@@ -1,0 +1,66 @@
+/* h1{
+    color: rgb(161, 212, 59);
+}
+.item{
+    border: 1px solid red;
+}
+.item .info-title{
+    text-align: right;
+    font-style: italic;
+    display: inline-block;
+    width: 80px;
+}
+
+.item .info-value{
+    font-weight: 500;
+}
+.item .col-5{
+    border-left: 1px solid #333;
+    background-color:  rgb(238, 238, 252);
+
+}
+
+.item .col-12{
+    border-top: 1px soild #999;
+    background-color: aliceblue;
+}
+
+.item .col-12{
+    border-top: 1px solid #bbb;
+} */
+
+    
+
+.img-fluid{
+    width: 800px;
+    height: 500px;
+     
+}
+.card{
+    border-radius: 5px;
+    margin-top: 15px;
+    
+}
+.card:hover{
+    box-shadow: -2px 3px 2px rgb(0, 0, 0);
+}
+.card-title{
+    font-family: 'Cinzel', serif;
+    text-align: center;
+    margin-top: 4px;
+}
+.card-text{
+    font-family: 'Cinzel', serif;
+    text-align: center;
+}
+
+
+hr { display: block; height: 1px;
+    border: 0; border-top: 1px solid rgb(0, 0, 0);
+    margin: 1em 0; padding: 0; 
+    
+
+}
+.btn{
+    font-family: 'Cinzel', serif;
+}

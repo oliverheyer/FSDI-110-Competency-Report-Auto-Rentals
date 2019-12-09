@@ -1,0 +1,39 @@
+.card-text{
+    
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+    text-align: left;
+    
+}
+.card-text2{
+    
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+    text-align: center;
+    
+}  
+.card-text3{
+    
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+    text-align: right;
+    
+}  
+
+.txt{
+    color:rgb(57, 56, 59);
+    font-size: 35px;
+}
+.card-img{
+    border-radius: 10px;
+    box-shadow: 1px 2px 4px rgb(0, 0, 0);
+   
+}
+
+.card:hover{
+    box-shadow: -2px 3px 2px rgb(70, 69, 68);
+}
+.display-4{
+    box-shadow: 0px 2px 4px rgb(100, 97, 97);
+    border-radius: 10px;
+}
